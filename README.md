@@ -2,10 +2,6 @@
 
 Installierbare Web-App (PWA) für Android, iPhone/iPad und Desktop. Funktioniert nach dem ersten Laden offline.
 
-## Online stellen (kostenlos, einmalig)
-**Variante A – Netlify Drop (am einfachsten):** auf https://app.netlify.com/drop gehen, den ganzen Ordner (entpackte ZIP) hineinziehen, Link kopieren.
-**Variante B – GitHub Pages:** neues Repo anlegen, alle Dateien hochladen, unter Settings → Pages "Deploy from branch: main / root" wählen.
-
 ## Auf dem Handy installieren
 - **Android (Chrome):** Link öffnen → Menü ⋮ → "App installieren" bzw. "Zum Startbildschirm hinzufügen".
 - **iPhone/iPad (Safari):** Link öffnen → Teilen-Symbol → "Zum Home-Bildschirm".
