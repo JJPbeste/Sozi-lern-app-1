@@ -1,0 +1,16 @@
+{
+  "name": "Sozialkunde-Lerntrainer BF2",
+  "short_name": "Sozi BF2",
+  "description": "Lernen und Prüfen für Sozialkunde BF2 – offline nutzbar.",
+  "lang": "de",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#113b52",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
